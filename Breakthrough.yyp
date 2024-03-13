@@ -7,6 +7,7 @@
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"order":3,},
     {"id":{"name":"Obj_ball","path":"objects/Obj_ball/Obj_ball.yy",},"order":1,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":15,},
+    {"id":{"name":"spr_powers","path":"sprites/spr_powers/spr_powers.yy",},"order":3,},
     {"id":{"name":"spri_brick","path":"sprites/spri_brick/spri_brick.yy",},"order":0,},
     {"id":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},"order":2,},
     {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},"order":2,},
