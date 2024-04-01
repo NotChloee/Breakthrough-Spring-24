@@ -1,5 +1,12 @@
 if(instance_number(Obj_brick) <= 0){
-	room_restart();
+	//bonus points
+	
+	//next room if exist
+	if room_exists(room_next(room))
+	{
+	    room_goto_next();
+	}
+	
 }
 
 if(gameover){
