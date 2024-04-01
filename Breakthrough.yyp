@@ -6,7 +6,6 @@
     {"id":{"name":"Obj_brick","path":"objects/Obj_brick/Obj_brick.yy",},"order":0,},
     {"id":{"name":"snd_PowerUp","path":"sounds/snd_PowerUp/snd_PowerUp.yy",},"order":0,},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"order":3,},
-    {"id":{"name":"Object8","path":"objects/Object8/Object8.yy",},"order":6,},
     {"id":{"name":"snd_Bounce","path":"sounds/snd_Bounce/snd_Bounce.yy",},"order":1,},
     {"id":{"name":"Obj_ball","path":"objects/Obj_ball/Obj_ball.yy",},"order":1,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":15,},
